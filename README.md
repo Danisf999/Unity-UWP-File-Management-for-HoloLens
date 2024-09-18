@@ -69,3 +69,16 @@ This script runs automatically after building a UWP project for HoloLens in Unit
 Ensure the `musicLibrary` capability is enabled in the UWP Build Settings in Unity.
 After building, the script will automatically replace `musicLibrary` with `documentsLibrary` in the `Package.appxmanifest` file.
 This script is particularly useful for HoloLens projects due to a limitation in Unity where documentsLibrary does not appear as an option in the Build Settings.
+
+### Contributors
+
+Special thanks to the following people who contributed to this project:
+
+- [Collaborator's Name](https://github.com/username) 
+- [Another Collaborator](https://github.com/username2)
+
+### Founding Sources 
+
+This work received financial support from the OVERSIGHT project (PID2022-138526OB-I00) funded by MICIU/AEI/10.13039/501100011033, UE. 
+Mercedes Solla acknowledges the grant RYC2019–026604–I funded by MICIU/AEI/10.13039/501100011033 and by “ESF Investing in your future”.
+Jesús Balado acknowledges the grant RYC2022-038100-I funded by MICIU/AEI/10.13039/501100011033 and FSE+.
