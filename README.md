@@ -74,8 +74,8 @@ This script is particularly useful for HoloLens projects due to a limitation in 
 
 Special thanks to the following people who contributed to this project:
 
-- [Collaborator's Name](https://github.com/username) 
-- [Another Collaborator](https://github.com/username2)
+- [Mercedes Solla](https://orcid.org/0000-0003-1042-4985) Concept Developer and Project Coordinator.
+- [Jesús Balado](https://orcid.org/0000-0002-3758-3102) Concept Developer.
 
 ### Founding Sources 
 
